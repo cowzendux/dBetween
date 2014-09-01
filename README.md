@@ -2,7 +2,7 @@
 
 SPSS Python Extension function to calculate a between-groups d statistic.
 
-The value of the d statistic is returned
+The value of the d statistic is returned by the function.
 
 This and other SPSS Python Extension functions can be found at http://www.stat-help.com/python.html
 
